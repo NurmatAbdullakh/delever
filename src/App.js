@@ -183,7 +183,7 @@ function App() {
       <footer class="footer">
         <div class="footer__container container">
          <div class="footer__top">  
-          <a class="footer__logo">
+          <a class="footer__logo" href="#">
             <Logo/>
             </a>
           <nav class="footer__navbar menu">
